@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Asssasins Creed System Requirement</title>
+    <header>
+        <h1>Asssasins Creed</h1>
+    </header>
+</head>
+
+<body>
+    <img src="assassin_s_creed_valhalla_eivor_male_2020_video_game-wallpaper-7680x4320.jpg" 
+    width="870" 
+    alt="NVidia">
+    <hr>
+    <table border="1">
+        <tr>
+            <th></th>
+            <th colspan="2">Minimum</th>
+            <th colspan="2">Recommended</th>
+        </tr>
+        <tr>
+            <th rowspan="2">Processor</th>
+            <th>Intel</th>
+            <th>AMD</th>
+            <th>Intel</th>
+            <th>AMD</th>
+        </tr>
+        <tr>
+            <td>i5 5th gen</td>
+            <td>Ryzen 5 3000</td>
+            <td>i7 9th gen</td>
+            <td>Ryzen 7 5800X</td>
+        </tr>
+        <tr>
+            <th rowspan="2">GPU</th>
+            <th>Nvidia</th>
+            <th>AMD</th>
+            <th>Nvidia</th>
+            <th>AMD</th>
+        </tr>
+        <tr>
+            <td>NVIDIA GeForce GTX 960 (4 GB)</td>
+            <td>AMD Radeon R9 380 (4 GB)</td>
+            <td>NVIDIA GeForce GTX 1080 (8 GB)</td>
+            <td>AMD Vega 64 (8 GB)</td>
+        </tr>
+        <tr>
+            <th>RAM</th>
+            <td colspan="2">8GB</td>
+            <td colspan="2">8GB</td>
+        </tr>
+        <tr>
+            <th>Hard Drive space</th>
+            <td colspan="2">50GB</td>
+            <td colspan="2">50GB(SSD recommended)</td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
